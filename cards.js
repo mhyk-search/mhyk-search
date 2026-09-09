@@ -4850,7 +4850,7 @@ const cards = [
   "tags": ["希望","古風","豪奢","夢中"],
   "skill": false
 },
-s
+
 
 ];
 
